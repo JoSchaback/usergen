@@ -1800,7 +1800,7 @@ void printUsage();
 
 int main(int argc, char *argv[]) {
     // default pattern. Can be overwritten by command line args
-    const char* pattern = "AdjectiveNumber3AdjectiveAdjectiveNounNumber4";
+    const char* pattern = "AdjectiveNounNumber4";
 
     // number of user names to generate. Default is 1. Can be overwritten by command line args
     int numberOfUsernamesToGenerate = 1;
