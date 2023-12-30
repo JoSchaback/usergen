@@ -25,8 +25,8 @@ $>
 The `-c 5` parameter tells the program to generate five user names. The following elements are recognized to build patterns:
 - `Adjective`: upper case adjective
 - `adjective`: lower case adjective
-- `Noun`: upper case Noun
-- `noun`: lower case Noun
+- `Noun`: upper case noun
+- `noun`: lower case noun
 - `Number`: random number, followed by a single digit to denote the number of digits of the random number
 ## Options
 The following additional options can be used to control the output of `usergen`.
