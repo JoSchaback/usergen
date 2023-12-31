@@ -1,2 +1,2 @@
 usergen:
-	$(CC) -o usergen usergen.c
+	$(CC) -o usergen usergen.c -lm
