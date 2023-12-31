@@ -1,6 +1,9 @@
 /**
- * Very simple program to spit out a random username in the form of [Adjective][Noun][Number]. Just execute the
+ * usergen: Simple program to spit out a random username in the form of [Adjective][Noun][Number]. Just execute the
  * program and pull the username from stdout.
+ * 
+ * Copyright 2023, Johannes Schaback
+ * Licenced under the MIT license
 */
 
 #include <time.h>
