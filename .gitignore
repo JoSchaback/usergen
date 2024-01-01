@@ -5,6 +5,4 @@ cmake_install.cmake
 Makefile
 CTestTestfile.cmake
 DartConfiguration.tcl
-Testing/Temporary/CTestCostData.txt
-Testing/Temporary/LastTest.log
-Testing/Temporary/LastTestsFailed.log
+Testing
