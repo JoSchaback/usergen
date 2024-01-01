@@ -24,7 +24,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: test env variables
-      run: echo hmm, so CC is set to $CC and CXX is set to $CXX
+      run: echo "hmm, so CC is set to $env:CC and CXX is set to $env:CXX"
     - name: Configure CMake
 
       # Configure CMake in a 'build' subdirectory. `CMAKE_BUILD_TYPE` is only required if you are using a single-configuration generator such as make.
