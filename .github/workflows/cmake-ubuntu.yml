@@ -39,5 +39,5 @@ jobs:
     - name: Upload artifact
       uses: actions/upload-artifact@v2
       with:
-        name: usergen Windows
+        name: usergen Linux
         path: ${{github.workspace}}/build/usergen
